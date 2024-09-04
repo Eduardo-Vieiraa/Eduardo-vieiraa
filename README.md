@@ -16,5 +16,5 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces de usúarios intu
 Estou em busca de oportunidades para contribuir com projetos que me desafiam a aprender e crescer como desenvolvedor. 
 
 ### Vamos nos conectar?
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vieira-gomes-578371285?trk=contact-info) | [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardovrgomes98@gmail.com) | [![Portfólio](https://img.shields.io/badge/Portfólio-20232A?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://img.shields.io/badge/Portfólio-20232A?style=for-the-badge&logo=about-dot-me&logoColor=white)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vieira-gomes-578371285?trk=contact-info) | [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardovrgomes98@gmail.com) | [![Portfólio](https://img.shields.io/badge/Portfólio-20232A?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://portfolio-five-sigma-29.vercel.app/)
 
